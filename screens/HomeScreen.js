@@ -162,11 +162,6 @@ const styles = StyleSheet.create({
     lineHeight: 24,
     textAlign: 'center',
   },
-  // tabBarInfoText: {
-  //   fontSize: 17,
-  //   color: 'rgba(96,100,109, 1)',
-  //   textAlign: 'center',
-  // },
   navigationFilename: {
     marginTop: 5,
   },
@@ -185,21 +180,21 @@ const styles = StyleSheet.create({
     textAlign: 'left',
     textAlignVertical: 'top',
   },
-  homeButtonText: {
-    fontSize:15,
-    color:'white',
-    fontWeight:'bold'
-  },
-  homeButton :{
-    width:width-32,
-    height:35,
-    borderRadius: 20,
-    alignSelf:'center',
-    backgroundColor:'skyblue',
-    marginTop:20,
-    justifyContent:'center',
-    alignItems:'center'
-  },
+  // homeButtonText: {
+  //   fontSize:15,
+  //   color:'white',
+  //   fontWeight:'bold'
+  // },
+  // homeButton :{
+  //   width:width-32,
+  //   height:35,
+  //   borderRadius: 20,
+  //   alignSelf:'center',
+  //   backgroundColor:'skyblue',
+  //   marginTop:20,
+  //   justifyContent:'center',
+  //   alignItems:'center'
+  // },
   generatedImage: {
     width: 250,
     height: 250,
